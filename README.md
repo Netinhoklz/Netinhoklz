@@ -38,7 +38,7 @@ Bem-vindo ao meu perfil no GitHub! Sou apaixonado por transformar dados em solu�
 Estou sempre aberto a novas ideias, colaborações e desafios interessantes. Vamos conversar!
 - **Meu Site** [Eternity Quant](https://site-eternity-quant.onrender.com)
 - **Email:** [netinhoklz2@gmail.com](mailto:netinhoklz2@gmail.com)
-- **LinkedIn:** [Meu LinkedIn]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/jos%C3%A9-freitas-alves-neto-907877285/))
+- **LinkedIn:** [Meu LinkedIn](https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/jos%C3%A9-freitas-alves-neto-907877285/))
 
 ---
 
