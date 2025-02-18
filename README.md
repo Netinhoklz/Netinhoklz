@@ -1,4 +1,4 @@
-# Olá, eu sou o Netinhoklz 👋
+# Olá, eu sou o José Neto 👋
 
 Bem-vindo ao meu perfil no GitHub! Sou apaixonado por transformar dados em soluções inovadoras através de **Ciência de Dados** e **Machine Learning**. Com conhecimento avançado em **Python**, aplico minhas habilidades para desenvolver modelos preditivos e análises que impactam decisões de negócios.
 
@@ -33,22 +33,12 @@ Bem-vindo ao meu perfil no GitHub! Sou apaixonado por transformar dados em solu�
 
 ---
 
-## 🗂️ Projetos Destacados
-
-- **[Projeto X](#)**: Solução completa para análise preditiva utilizando técnicas avançadas de Machine Learning e visualização de dados.
-- **[Projeto Y](#)**: Ferramenta automatizada de análise de grandes volumes de dados, focada em escalabilidade e performance.
-- **[Projeto Z](#)**: Plataforma interativa para exploração de dados e geração de insights estratégicos.
-
-*Explore meus repositórios para conhecer mais sobre minhas experiências e projetos desenvolvidos!*
-
----
-
 ## 📫 Entre em Contato
 
 Estou sempre aberto a novas ideias, colaborações e desafios interessantes. Vamos conversar!
 - **Meu Site** [Eternity Quant](https://site-eternity-quant.onrender.com)
 - **Email:** [netinhoklz2@gmail.com](mailto:netinhoklz2@gmail.com)
-- **LinkedIn:** [Seu LinkedIn](https://www.linkedin.com/in/seu-perfil)
+- **LinkedIn:** [Meu LinkedIn]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/jos%C3%A9-freitas-alves-neto-907877285/))
 
 ---
 
