@@ -5,8 +5,6 @@
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="300" />
 
 
-<!-- Radar de atividades -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Netinhoklz&theme=radical" width="300"/>
 </div>
 
 <h1 align="center">José Neto&nbsp;👋</h1>
