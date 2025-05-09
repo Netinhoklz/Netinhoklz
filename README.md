@@ -4,8 +4,6 @@
 <!-- 3-D contribution graph -->
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="300" />
 
-<!-- Donut de linguagens -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Netinhoklz&layout=donut&langs_count=8&theme=radical" width="300"/>
 
 <!-- Radar de atividades -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Netinhoklz&theme=radical" width="300"/>
