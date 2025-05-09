@@ -1,11 +1,5 @@
 <!-- banner ----------------------------------------------------------------->
-<div align="center">
 
-<!-- 3-D contribution graph -->
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="300" />
-
-
-</div>
 
 <h1 align="center">José Neto&nbsp;👋</h1>
 <p align="center">
