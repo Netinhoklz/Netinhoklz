@@ -15,8 +15,7 @@ overview rápido das minhas stacks, estatísticas e formas de contato.
 ## 🚀 Sobre mim
 - 🔭 Atualmente focado em modelos de previsão de demanda e séries temporais.  
 - 🌱 Explorando MLOps (Docker, FastAPI, CI/CD) para pôr modelos em produção.  
-- 🏆 **Bicampeão** de hackathons da *Infinity School* – dois eventos seguidos, ambos com premiação em dinheiro.  
-- 🌀 Curadoria visual: mantenho o perfil em **visão 3-D** para uma experiência mais imersiva.  
+- 🏆 **Bicampeão** de hackathons da *Infinity School* – dois eventos seguidos, ambos com premiação em dinheiro.   
 - 🤝 Acredito em pesquisa aberta, código limpo e colaboração com a comunidade.
 
 ---
