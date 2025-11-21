@@ -3,7 +3,7 @@
 <div align="center">
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Transformando+dados+em+insights;Machine+Learning+Engineer;Bicampe%C3%A3o+de+Hackathons;Python+Expert" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Transformando+dados+em+insights;Machine+Learning+Engineer;Bicampe%C3%A3o+de+Hackathons;Python+Expert" alt="Typing SVG" />
   </a>
 
 </div>
@@ -12,7 +12,7 @@
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="60%" valign="center">
+    <td width="65%" valign="center">
       
 ### 🚀 Sobre mim
 
@@ -38,9 +38,9 @@ Sou apaixonado por transformar dados brutos em **insights acionáveis** usando P
   </a>
 </p>
     </td>
-    <td width="40%" valign="center">
+    <td width="35%" valign="center">
       <div align="center">
-        <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/e6919c6e8121c6333751795f06c067f8.png" width="300" alt="Data Science 3D" style="border-radius: 10px;">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="250" alt="Technologist 3D" />
       </div>
     </td>
   </tr>
@@ -48,7 +48,7 @@ Sou apaixonado por transformar dados brutos em **insights acionáveis** usando P
 
 ---
 
-### 🛠️ Tech Stack & Ferramentas (3D Icons)
+### 🛠️ Tech Stack & Ferramentas
 
 <div align="center">
   <p>
