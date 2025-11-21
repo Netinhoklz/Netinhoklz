@@ -1,10 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=José%20Neto&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Pythonista&descAlignY=55&descAlign=50)
-
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=José%20Neto&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Pythonista&descAlignY=55&descAlign=50" alt="Header Banner" width="100%"/>
+
+<br>
   
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Transformando+dados+em+insights;Machine+Learning+Engineer;Bicampe%C3%A3o+de+Hackathons;Python+Expert" alt="Typing SVG" />
-  </a>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Transformando+dados+em+insights;Machine+Learning+Engineer;Bicampe%C3%A3o+de+Hackathons;Python+Expert" alt="Typing SVG" />
+</a>
 
 </div>
 
@@ -53,7 +55,7 @@ Sou apaixonado por transformar dados brutos em **insights acionáveis** usando P
 <div align="center">
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,tensorflow,pytorch,docker,fastapi,git,vscode,linux,gcp&perline=12" />
+      <img src="https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,tensorflow,pytorch,docker,fastapi,git,vscode,linux,gcp&perline=12" alt="Tech Stack Icons" />
     </a>
   </p>
 </div>
@@ -76,12 +78,12 @@ Sou apaixonado por transformar dados brutos em **insights acionáveis** usando P
   
   <br>
   
-  <img src="https://github-profile-trophy.vercel.app/?username=Netinhoklz&margin-w=15&row=1&theme=tokyonight&no-bg=true&no-frame=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Netinhoklz&margin-w=15&row=1&theme=tokyonight&no-bg=true&no-frame=true" alt="GitHub Trophies"/>
 
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Banner" width="100%"/>
 </div>
