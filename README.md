@@ -53,11 +53,25 @@ Sou apaixonado por transformar dados brutos em **insights acionáveis** usando P
 ### 🛠️ Tech Stack & Ferramentas
 
 <div align="center">
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,tensorflow,pytorch,docker,fastapi,git,vscode,linux,gcp&perline=12" alt="Tech Stack Icons" />
-    </a>
-  </p>
+
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  
+  <br>
+
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
+
+  <br>
+
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
+  <img src="https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+
 </div>
 
 ---
@@ -68,17 +82,17 @@ Sou apaixonado por transformar dados brutos em **insights acionáveis** usando P
   <table border="0">
     <tr>
       <td>
-        <img height="180" src="https://github-readme-stats.vercel.app/api?username=Netinhoklz&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+        <img height="180" src="https://github-readme-stats.vercel.app/api?username=Netinhoklz&show_icons=true&theme=dracula&count_private=true&hide_border=true" />
       </td>
       <td>
-        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Netinhoklz&layout=compact&theme=tokyonight&hide_border=true" />
+        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Netinhoklz&layout=compact&theme=dracula&hide_border=true" />
       </td>
     </tr>
   </table>
   
   <br>
   
-  <img src="https://github-profile-trophy.vercel.app/?username=Netinhoklz&margin-w=15&row=1&theme=tokyonight&no-bg=true&no-frame=true" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Netinhoklz&theme=dracula&margin-w=15&column=7&no-frame=true" alt="GitHub Trophies"/>
 
 </div>
 
