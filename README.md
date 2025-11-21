@@ -28,7 +28,7 @@ Sou apaixonado por transformar dados brutos em **insights acionáveis** usando P
 ### 📫 Vamos conversar?
 <p align="left">
   <a href="https://site-eternity-quant.onrender.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Eternity_Quant-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Eternity_Quant-000000?style=for-the-badge&logo=render&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/josefreitasneto/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
