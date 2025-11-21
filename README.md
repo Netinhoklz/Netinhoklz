@@ -92,7 +92,6 @@ Sou apaixonado por transformar dados brutos em **insights acionáveis** usando P
   
   <br>
   
-  <img src="https://github-profile-trophy.vercel.app/?username=Netinhoklz&theme=dracula&margin-w=15&column=7&no-frame=true" alt="GitHub Trophies"/>
 
 </div>
 
